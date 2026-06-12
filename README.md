@@ -70,23 +70,24 @@ Categorical variables are encoded using Label Encoding before training. The trai
 
 ## Project Structure
 
+```text
 AI-Personalized-Study-Planner
-
+│
 ├── app.py
 ├── train_model.py
 ├── timetable_generator.py
 ├── requirements.txt
 ├── README.md
-
+│
 ├── dataset
 │   └── student_dataset.csv
-
-├── model
-│   ├── study_planner.pkl
-│   ├── goal_encoder.pkl
-│   ├── skill_encoder.pkl
-│   └── focus_encoder.pkl
-
+│
+└── model
+    ├── study_planner.pkl
+    ├── goal_encoder.pkl
+    ├── skill_encoder.pkl
+    └── focus_encoder.pkl
+```
 ## Installation
 
 ### Clone the Repository
