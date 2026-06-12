@@ -40,26 +40,21 @@ A generic study plan may not address individual learning requirements, available
 
 ---
 
-## Screenshots
-
 ### Home Page
 
-![Home Page](screenshots/home_page.png)
+<img src="https://raw.githubusercontent.com/Vineeshakolla/AI-Personalized-Study-Planner/main/screenshots/home_page.png" width="800">
 
 ### Recommendation Output
 
-![Prediction Result](screenshots/prediction_result.png)
+<img src="https://raw.githubusercontent.com/Vineeshakolla/AI-Personalized-Study-Planner/main/screenshots/prediction_result.png" width="800">
 
 ### Generated Study Timetable
 
-![Timetable Output](screenshots/timetable_output.png)
+<img src="https://raw.githubusercontent.com/Vineeshakolla/AI-Personalized-Study-Planner/main/screenshots/timetable_output.png" width="800">
 
 ### Live Application
 
-![Live Application](screenshots/deployed_app.png)
-
----
-
+<img src="https://raw.githubusercontent.com/Vineeshakolla/AI-Personalized-Study-Planner/main/screenshots/deployed_app.png" width="800">
 ## Machine Learning Workflow
 
 ### Input Features
