@@ -1,0 +1,66 @@
+year,goal,hours,skill_level,focus
+1,Academics,2,Beginner,Academics
+1,Academics,3,Beginner,Academics
+1,Academics,4,Intermediate,Academics
+2,Academics,4,Intermediate,Academics
+3,Academics,5,Advanced,Academics
+4,Academics,6,Advanced,Academics
+
+2,Placements,3,Beginner,DSA
+2,Placements,4,Beginner,DSA
+3,Placements,4,Beginner,DSA
+3,Placements,5,Intermediate,DSA
+3,Placements,6,Intermediate,DSA
+3,Placements,7,Advanced,Interviews
+4,Placements,5,Intermediate,DSA
+4,Placements,6,Advanced,Interviews
+4,Placements,7,Advanced,Interviews
+4,Placements,8,Advanced,Interviews
+
+2,ML,3,Beginner,ML Foundations
+2,ML,4,Beginner,ML Foundations
+3,ML,4,Beginner,ML Foundations
+3,ML,5,Intermediate,ML Projects
+3,ML,6,Intermediate,ML Projects
+3,ML,7,Advanced,Deep Learning
+4,ML,5,Intermediate,ML Projects
+4,ML,6,Advanced,Deep Learning
+4,ML,7,Advanced,Deep Learning
+4,ML,8,Advanced,Deep Learning
+
+2,Research,3,Beginner,Research
+2,Research,4,Intermediate,Research
+3,Research,5,Intermediate,Research
+3,Research,6,Advanced,Research
+4,Research,5,Advanced,Research
+4,Research,6,Advanced,Research
+4,Research,7,Advanced,Research
+
+2,Competitive Programming,3,Beginner,CP
+2,Competitive Programming,4,Beginner,CP
+3,Competitive Programming,5,Intermediate,CP
+3,Competitive Programming,6,Intermediate,CP
+4,Competitive Programming,6,Advanced,CP
+4,Competitive Programming,7,Advanced,CP
+
+2,GATE,3,Beginner,Core Subjects
+2,GATE,4,Beginner,Core Subjects
+3,GATE,5,Intermediate,Core Subjects
+3,GATE,6,Intermediate,Core Subjects
+4,GATE,6,Advanced,Mock Tests
+4,GATE,7,Advanced,Mock Tests
+4,GATE,8,Advanced,Mock Tests
+
+2,Higher Studies,3,Beginner,GRE Prep
+2,Higher Studies,4,Beginner,GRE Prep
+3,Higher Studies,5,Intermediate,GRE Prep
+3,Higher Studies,6,Intermediate,GRE Prep
+4,Higher Studies,6,Advanced,GRE Prep
+4,Higher Studies,7,Advanced,GRE Prep
+
+1,ML,2,Beginner,ML Foundations
+1,Placements,2,Beginner,DSA
+1,GATE,2,Beginner,Core Subjects
+1,Research,2,Beginner,Research
+1,Competitive Programming,2,Beginner,CP
+1,Higher Studies,2,Beginner,GRE Prep
