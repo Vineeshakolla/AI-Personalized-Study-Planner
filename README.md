@@ -92,7 +92,7 @@ AI-Personalized-Study-Planner
 ### Clone the Repository
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/Vineeshakolla/AI-Personalized-Study-Planner.git
 cd AI-Personalized-Study-Planner
 ```
 
